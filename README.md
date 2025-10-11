@@ -29,4 +29,4 @@ Includes correlation heatmap and classification metrics.
 3. Install requirements  
 4. Run `churn_prediction.ipynb`
  
---- happy coding ---___
+--- happy coding ---
