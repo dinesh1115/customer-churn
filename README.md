@@ -6,13 +6,13 @@ This project predicts whether a customer will churn (leave a service) using a lo
 
 [Source: [Kaggle Telco Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)]
 
- Tech Stack
+Tech Stack
 
 - Python, Pandas, NumPy
 - Scikit-learn, Seaborn, Matplotlib
 - Jupyter Notebook
 
-🧠 ML Model
+ML Model
 
 - Logistic Regression
 - Preprocessing with StandardScaler
